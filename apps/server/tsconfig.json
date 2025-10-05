@@ -19,6 +19,7 @@
     "declaration": true,
     "declarationMap": true,
     "outDir": "dist",
+    "emitDeclarationOnly": true,
     "incremental": true,
     "plugins": [
       {
